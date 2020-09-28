@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for [PlusPLus](https://plusplus.co/)
+- 🔭 I’m currently working for [PlusPlus](https://plusplus.co/)
 - 👾 Some side projects: [Memoir](http://memoir.athanium.com/) (Interviewed YC S20), [Project Mafia](http://mafia.athanium.com/) (>1000 users/ month), [Loggerbook](http://loggerbookapp.herokuapp.com/)
 - 🧠 My portfolio: [bathientran.com](http://bathientran.com/)
 
