@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for [PlusPlus](https://plusplus.co/)
-- 👾 Some side projects: [Memoir](http://memoir.athanium.com/) (Interviewed YC S20), [Project Mafia](http://mafia.athanium.com/) (>1000 users/ month), [Loggerbook](http://loggerbookapp.herokuapp.com/)
+- 🔭 I’m currently working for Amazon
+- 👾 Some side projects: Memoir (Interviewed YC S20), [Project Mafia](http://mafia.athanium.com/) (>1000 users/ month), [Impress](https://joinimpress.com/)
 - 🧠 My portfolio: [bathientran.com](http://bathientran.com/)
 
 <!--
